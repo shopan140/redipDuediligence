@@ -1,0 +1,31 @@
+CorrelationId: c41d97b2-1d96-4fb5-b04d-639e993d97a7
+UTC DateTime: 01/05/2024 04:08:55
+
+The following files/folders have not been downloaded
+0. REDIP Intake 2 - Due Diligence - AGRI.xlsx
+1. REDIP Intake 2 - Due Diligence - CITZ.xlsx
+2. REDIP Intake 2 - Due Diligence - Education.xlsx
+3. REDIP Intake 2 - Due Diligence - EMBC.xlsx
+4. REDIP Intake 2 - Due Diligence - EMLI.xlsx
+5. REDIP Intake 2 - Due Diligence - ENV  (CLEAN BC).xlsx
+6. REDIP Intake 2 - Due Diligence - ENV (Parks).xlsx
+7. REDIP Intake 2 - Due Diligence - ENV (RSTBC).xlsx
+8. REDIP Intake 2 - Due Diligence - Forests.xlsx
+9. REDIP Intake 2 - Due Diligence - Housing.xlsx
+10. REDIP Intake 2 - Due Diligence - JEDI (Major Investments).xlsx
+11. REDIP Intake 2 - Due Diligence - JEDI (Manufacturing).xlsx
+12. REDIP Intake 2 - Due Diligence - JEDI (MJF).xlsx
+13. REDIP Intake 2 - Due Diligence - JEDI (PNP Program).xlsx
+14. REDIP Intake 2 - Due Diligence - JEDI (REIP).xlsx
+15. REDIP Intake 2 - Due Diligence - JEDI (Small Business).xlsx
+16. REDIP Intake 2 - Due Diligence - MIRR.xlsx
+17. REDIP Intake 2 - Due Diligence - MOTI.xlsx
+18. REDIP Intake 2 - Due Diligence - MUNI.xlsx
+19. REDIP Intake 2 - Due Diligence - PSFS .xlsx
+20. REDIP Intake 2 - Due Diligence - PSSG.xlsx
+21. REDIP Intake 2 - Due Diligence - TACS (Arts & Culture).xlsx
+22. REDIP Intake 2 - Due Diligence - TACS (Heritage).xlsx
+23. REDIP Intake 2 - Due Diligence - TACS (Mountain Resorts).xlsx
+24. REDIP Intake 2 - Due Diligence - TACS (Sport).xlsx
+25. REDIP Intake 2 - Due Diligence - TACS (Tourism).xlsx
+26. REDIP Intake 2 - Due Diligence - WLRS.xlsx
